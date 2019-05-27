@@ -12,7 +12,7 @@ pip install scrapy
 ```
 ## What I Did
 
-- With great support of a **[Webina]r** from **Prateek Sir** by **[CodingBlocks]** i was able to scrape data of a e-commerce website "**[Flipkart]**".
+- With great support of a **[Webinar]** from **[Prateek Sir]** by **[CodingBlocks]** i was able to scrape data of a e-commerce website "**[Flipkart]**".
 - I took a webpage and extracted all **product_price, product_name, product_rating** upto 5 pages.
 - Scraped data is then store in **.json, .csv or .xml** file and can be used for any purpose.
 - **[Scrapy]** does all the hard work for us, while we just type few lines of code.
@@ -31,6 +31,7 @@ pip install scrapy
 - **[Webinar]**
 
     [Webinar]: <https://www.youtube.com/watch?v=oRj9-3gEOA8>
+    [Prateek Sir]: <https://github.com/prateek27>
     [CodingBlocks]: <https://online.codingblocks.com/>
     [Prateek Narang]: <https://github.com/prateek27>
     [Scrapy]: <https://scrapy.org/>
