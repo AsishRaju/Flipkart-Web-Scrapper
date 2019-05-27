@@ -1,4 +1,4 @@
-# Web Scrapping Flipkart
+# Web Scraping Flipkart
 [![N|Solid](https://www.python.org/static/community_logos/python-powered-w-200x80.png)](https://nodesource.com/products/nsolid)
 
 **Scrapy** is a python library that help you to scrape website data at ease
