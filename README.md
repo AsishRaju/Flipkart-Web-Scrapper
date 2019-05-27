@@ -34,6 +34,7 @@ pip install scrapy
     [Prateek Sir]: <https://github.com/prateek27>
     [CodingBlocks]: <https://online.codingblocks.com/>
     [Prateek Narang]: <https://github.com/prateek27>
+    [Flipkart]: <https://www.flipkart.com/>
     [Scrapy]: <https://scrapy.org/>
     [website-url]: <https://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off>
     
